@@ -91,3 +91,8 @@ class LibraryManager:
 ```bash
 python main.py
 ```
+
+---
+
+Мой тг: @Karkush
+Номер телефона: 89998529731
